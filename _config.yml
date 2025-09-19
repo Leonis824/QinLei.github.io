@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Qin Lei / Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Qin Lei"
+description              : &description "Qin Lei's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://leonis824.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/QinLei.github.io" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Qin Lei"
   pronouns         : # example: "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Hong Kong SAR"
   employer         : "The university of Hong Kong"
   uri              : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Leooooo
+  linkedin         : "Leooooo"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
