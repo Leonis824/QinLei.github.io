@@ -14,7 +14,7 @@ Through my research, I developed strong skills in applying a wide range of compu
 
 I am now working as a Research Assistant under the supervision of [Prof. Zhan Zhao](https://zhanzhaowf.github.io/)
 
-You can find my CV [here](files/CV_QinLei_github.pdf)
+You can find my CV [here](../files/CV_QinLei_github.pdf)
 
 Research Interests
 ======
