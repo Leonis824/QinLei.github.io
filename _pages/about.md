@@ -14,6 +14,8 @@ Through my research at HKU, I developed strong skills in applying a wide range o
 
 I am now working as a Research Assistant under the supervision of [Prof. Zhan Zhao](https://zhanzhaowf.github.io/)
 
+You can find my CV [here](/files/Curriculum vitae_QinLei_github.pdf)
+
 Research Interests
 ======
 - Multimodal travel behavior  
